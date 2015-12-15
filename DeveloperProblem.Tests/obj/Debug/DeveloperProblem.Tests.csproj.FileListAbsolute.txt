@@ -1,0 +1,5 @@
+c:\users\nabeel tanveer\documents\visual studio 2013\Projects\DeveloperProblem\DeveloperProblem.Tests\bin\Debug\DeveloperProblem.Tests.dll
+c:\users\nabeel tanveer\documents\visual studio 2013\Projects\DeveloperProblem\DeveloperProblem.Tests\bin\Debug\DeveloperProblem.Tests.pdb
+c:\users\nabeel tanveer\documents\visual studio 2013\Projects\DeveloperProblem\DeveloperProblem.Tests\obj\Debug\DeveloperProblem.Tests.csprojResolveAssemblyReference.cache
+c:\users\nabeel tanveer\documents\visual studio 2013\Projects\DeveloperProblem\DeveloperProblem.Tests\obj\Debug\DeveloperProblem.Tests.dll
+c:\users\nabeel tanveer\documents\visual studio 2013\Projects\DeveloperProblem\DeveloperProblem.Tests\obj\Debug\DeveloperProblem.Tests.pdb
